@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.idea/
+Untitled.ipynb
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
